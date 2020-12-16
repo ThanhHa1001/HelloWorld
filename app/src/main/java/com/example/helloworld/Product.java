@@ -2,6 +2,9 @@ package com.example.helloworld;
 
 public class Product {
     private int id;
+    /**
+     * Name of Product
+     */
     private String name;
 
     public Product(int id, String name) {
